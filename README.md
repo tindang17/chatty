@@ -21,3 +21,4 @@ Chatty was built using the following stacks:
 * Node 5.10.x or above
 
 ## Screenshots
+!["page of user tindang1710@gmail.com"](https://github.com/tindang17/chatty/blob/master/docs/Screen%20Shot%202017-06-03%20at%205.02.11%20PM.png)
