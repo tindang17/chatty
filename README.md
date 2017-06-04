@@ -1,4 +1,4 @@
-#Chatty project
+###Chatty project
 
 Chatty is a simple, real-time commication app.
 
