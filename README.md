@@ -1,4 +1,4 @@
-###Chatty project
+### Chatty project
 
 Chatty is a simple, real-time commication app.
 
@@ -20,4 +20,4 @@ Chatty was built using the following stacks:
 * Express
 * Node 5.10.x or above
 
-##Screenshots
+## Screenshots
